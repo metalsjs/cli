@@ -1,0 +1,8 @@
+{
+  "name": "@metalsjs/cli",
+  "version": "0.0.1",
+  "description": "基于ts开发的辅助于vue3的web项目的脚手架",
+  "keywords": [],
+  "author": "fengwang",
+  "license": "MIT"
+}
